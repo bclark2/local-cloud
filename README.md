@@ -3,7 +3,7 @@ Local cloud storage
 <p>Use this application with a single board computer like an Intel Nuc<p/>
 <p>Leverage the speed of NVME SSD drives for fast read and write performance</p>
 <p>The only speed limitation will be your network speed and the read/write performance of the NVME drive you use</p>
-<p>To run the application</p>
+<p><strong>To run the application</strong></p>
 <p>Install flask</p>
 
 <code>pip install flask</code>
